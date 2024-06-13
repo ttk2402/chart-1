@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  foodapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-13T10:54:34.2284681+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 955c40c6dd9ad76123c6d06d6481415003876717dc749779c2437dabdc1df63a
+    name: foodapp
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/ttk2402/chart-1/main/foodapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-13T10:54:34.2279612+07:00"
